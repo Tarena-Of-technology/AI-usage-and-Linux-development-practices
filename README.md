@@ -1,1 +1,2 @@
-"# AI-usage-and-Linux-development-practices" 
+"# AI使用和Linux开发实践（1~18）" 
+"# AI使用和Linux开发实践（1~19）" 
